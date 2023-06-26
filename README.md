@@ -1,6 +1,6 @@
 # Hello there, Andi here! 👋
 
-Electrical Engineer that shares his code on the internet.
+Electrical Engineer who shares his code on the internet.
 
 ## Check out:
 
@@ -11,8 +11,9 @@ Electrical Engineer that shares his code on the internet.
 
 ## Things I like to do in my free time:
 
-- Minecraft Modding @SchmarrnDevs
+- Minecraft Modding [@SchmarrnDevs][]
 - Self Hosting Software on my server
 - Programming simple Software
 - Developing Hardware
 
+[@SchmarrnDevs]: <https://github.com/SchmarrnDevs>
